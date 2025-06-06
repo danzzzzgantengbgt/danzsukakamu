@@ -13,5 +13,7 @@ pkg install openssh
 pkg install php
 
 Run Tools
+
 ./install.sh
+
 python3 danz.py
